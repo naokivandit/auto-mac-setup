@@ -7,6 +7,7 @@ echo "execute homebrew"
 brew bundle
 
 # set up visual studio code Extension
+echo "set up visual studio code Extension"
 code --install-extension codezombiech.gitignore
 code --install-extension donjayamanne.git-extension-pack
 code --install-extension golang.go
