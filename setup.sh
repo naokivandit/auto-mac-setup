@@ -1,11 +1,8 @@
 # install homebrew
-echo "install homebrew"
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+sh homebrew_install.sh
 
 # execute homebrew
-echo "execute homebrew"
-brew bundle
+sh homebrew_exe.sh
 
 # set up visual studio code Extension
-echo "set up visual studio code Extension"
 sh vscode.sh

@@ -1,3 +1,4 @@
+echo "set up visual studio code Extension"
 code --install-extension codezombiech.gitignore
 code --install-extension donjayamanne.git-extension-pack
 code --install-extension golang.go
