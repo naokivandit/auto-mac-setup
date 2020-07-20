@@ -9,4 +9,8 @@ cask "kindle"
 cask "slack"
 cask "sourcetree"
 cask "stoplight-studio"
+cask "sublime-text"
 cask "visual-studio-code"
+
+cask "Graphviz"
+cask "java"
