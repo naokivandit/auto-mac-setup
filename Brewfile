@@ -2,6 +2,7 @@ tap "homebrew/cask"
 
 cask_args appdir: "~/Applications"
 
+cask "Clipy"
 cask "docker"
 cask "flux"
 cask "google-chrome"
@@ -14,3 +15,4 @@ cask "visual-studio-code"
 
 cask "Graphviz"
 cask "java"
+cask "yamllint"
