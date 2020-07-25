@@ -6,3 +6,6 @@ sh homebrew_exe.sh
 
 # set up visual studio code Extension
 sh vscode.sh
+
+# set up mac system settings
+sh default.sh
