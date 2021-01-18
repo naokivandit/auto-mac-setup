@@ -12,6 +12,7 @@ cask "sourcetree"
 cask "stoplight-studio"
 cask "sublime-text"
 cask "visual-studio-code"
+cask "1password"
 
 cask "Graphviz"
 cask "java"
